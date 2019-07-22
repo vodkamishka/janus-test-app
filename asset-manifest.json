@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/janus-test-app/static/css/main.45ddb1e9.chunk.css",
+    "main.js": "/janus-test-app/static/js/main.166ac233.chunk.js",
+    "main.js.map": "/janus-test-app/static/js/main.166ac233.chunk.js.map",
+    "runtime~main.js": "/janus-test-app/static/js/runtime~main.adb81abc.js",
+    "runtime~main.js.map": "/janus-test-app/static/js/runtime~main.adb81abc.js.map",
+    "static/js/2.f61c64bc.chunk.js": "/janus-test-app/static/js/2.f61c64bc.chunk.js",
+    "static/js/2.f61c64bc.chunk.js.map": "/janus-test-app/static/js/2.f61c64bc.chunk.js.map",
+    "index.html": "/janus-test-app/index.html",
+    "precache-manifest.73b6b652732e0401efcf516d5e8c66f0.js": "/janus-test-app/precache-manifest.73b6b652732e0401efcf516d5e8c66f0.js",
+    "service-worker.js": "/janus-test-app/service-worker.js",
+    "static/css/main.45ddb1e9.chunk.css.map": "/janus-test-app/static/css/main.45ddb1e9.chunk.css.map"
+  }
+}
