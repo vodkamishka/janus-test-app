@@ -1,0 +1,23 @@
+.app .view-settings-window {
+    width: 226px;
+    height: 262px;
+    position: absolute;
+    left: 1700px;
+    top: 185px;
+    border-radius: 10px;
+    background: #fafafa;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+    display: flex;
+    justify-content: center;
+      
+}
+
+.app .view-settings-window li {
+    list-style-type: none;
+    display: flex;
+    margin-top: 18px;  
+}
+
+.app .view-settings-window span {
+    margin-left: 12px;
+}

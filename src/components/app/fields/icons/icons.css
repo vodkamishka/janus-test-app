@@ -1,0 +1,7 @@
+.app__fields .icons {
+    margin: 63px  0 0 820px;
+    display: flex;
+}
+.app__fields .filters {
+    margin-right: 30px;
+}

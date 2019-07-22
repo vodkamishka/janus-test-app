@@ -1,0 +1,43 @@
+.app__table .thead > tr {
+    background: #d3dee8;
+    box-shadow: none;  
+}
+.app__table tr {
+    box-shadow: -0.1px 0.2px 1px rgba(0,0,0,0.5);
+}
+.app__table th {
+    padding-left: 20px;
+}
+.app__table .col1 {
+    width: 320px;
+    text-align: left;
+    border-radius: 10px 0 0 10px;  
+}
+.app__table .col2 {
+    width: 115px;
+    text-align: left; 
+}
+.app__table .col3 {
+    width: 152px;
+    text-align: right; 
+}
+.app__table .col4 {
+    width: 210px;
+    text-align: right; 
+}
+.app__table .col5 {
+    width: 167px;
+    text-align: right; 
+}
+.app__table .col6 {
+    width: 497px;
+    text-align: left;
+}
+.app__table .col6 > span{
+    padding-right: 14px;
+}
+.app__table .col7 {
+    width: 237px; 
+    border-radius: 0 10px 10px 0;   
+}
+

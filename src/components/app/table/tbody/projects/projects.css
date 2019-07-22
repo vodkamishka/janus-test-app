@@ -1,0 +1,11 @@
+.app__table .projects {
+    display: flex;
+    margin-left: 60px;
+}
+.app__table .projects-shevron {
+    display: flex;
+    margin-right: 30px;
+}
+.app__table .projects-shevron  > span {
+    margin-right: 10px;
+}

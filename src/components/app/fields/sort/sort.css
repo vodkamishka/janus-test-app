@@ -1,0 +1,14 @@
+.app__fields .sort {
+    color: #919297;
+    display: flex;
+    margin-top: 63px;
+    align-items: center;
+}
+.app__fields .sort > span{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.app__fields .sort > select{
+    margin-bottom: 20px;
+    border: none;
+}

@@ -1,0 +1,17 @@
+.app__pagination .pagination {
+    margin-top: 50px;
+    display: flex;
+}
+.app__pagination .pagination .arrow-disable {
+    margin-right: 12px;
+}
+.app__pagination .pagination ul li {
+    display: inline-block;
+    margin: 0px 20px;
+}
+.app__pagination .pagination .arrow-enable {
+    margin: 0 35px 0 12px;
+}
+.app__pagination .pagination .count-rows {
+    margin: 0 21px;
+}

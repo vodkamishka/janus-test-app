@@ -1,0 +1,25 @@
+.app__budgets {
+    height: 43px;
+    display: flex;
+    align-items: center;
+}
+.app__budgets .title {
+    font-weight: bold;
+    font-size: 23px;
+}
+.app__budgets .button {
+    margin-left: 50px;
+}
+.app__budgets button {
+    padding: 14px 19px;
+    background: #3798f3;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 143px;
+    font-size: 14px;
+    height: 43px;
+}
+.app__budgets button > span {
+    margin-right: 14px;
+}

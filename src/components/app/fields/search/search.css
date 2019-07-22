@@ -1,0 +1,12 @@
+.app__fields .search {
+    margin: 63px 0 0 451px;
+    display: flex;
+    height: 30px;
+}
+.app__fields .search > input {
+    color: #a4a4a4;
+    outline: none;
+    margin-left: 10px; 
+    border: none;
+}
+

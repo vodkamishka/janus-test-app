@@ -1,0 +1,13 @@
+.app__table td {
+    padding-left: 20px;  
+}
+.app__table .red {
+    color: #f30828;
+}
+
+.app__table .orange {
+    color: #f68026;
+}
+.app__table .hide {
+    display: none;
+}
